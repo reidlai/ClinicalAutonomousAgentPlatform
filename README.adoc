@@ -1,6 +1,6 @@
 = Clinical Autonomous Agent Platform 
 
-Wai Kei LAI +
+Lai, W.K. +
 Wilfrid Laurier University +
 13 December 2023 
 
@@ -14,7 +14,7 @@ On May 3, 2023, the WHO chief announced that COVID-19 was no longer a global hea
 
 The GAAIAA market is experiencing significant growth in the coming years. This growth is beneficial for both businesses and consumers alike as it provides access to new technologies at lower costs. Markets and Markets (2023, June) projected GAAIAA market size reaching USD 28.5 billion by 2028 with a compound annual growth rate (CAGR) of 40.7%. **USD 28.5 billion will be the target addressable market (TAM) in this paper**. This indicates an immense potential for businesses who are looking into investing in this sector, as well as those who are already involved in it but need further development or expansion of their services or products due to increased competition from other players entering the industry soon enough.
 
-image::Picture1.png[]
+image::images/Picture1.png[]
 
 === Market Trends
 
@@ -23,17 +23,18 @@ The GAAIAA market is rapidly evolving with the emergence of new technologies and
 === Key Players
 
 Here are some of the key players in the GAAIAA market outlined by Markets and Markets (2023, June):
+
 *	IBM Corporation
 *	Amazon Web Services, Inc.
 *	Microsoft Corporation
-*	Oracle Corporation
-*	Google LLC
-*	Waymo
-*	OpenAI
-*	Salesforce
-*	NVIDIA Corporation
-*	ServiceNow
-*	H2O.ai
+* Oracle Corporation
+* Google LLC
+* Waymo
+* OpenAI
+* Salesforce
+* NVIDIA Corporation
+* ServiceNow
+* H2O.ai
 
 These companies also invest heavily on research and development activities to differentiate away from their competitors. They cooperate with universities or other organizations to develop new technologies or enhance existing ones to sustain their competitive edge over others in terms of product offerings and services. They also acquire smaller firms that specialize in specific areas related to GAAIAA’s technology so as increase their market share further by leveraging acquired company’s expertise. All these factors contribute towards strengthening current competitive positioning of GAAIAA Market which is expected grow exponentially during forecast period between 2021-2030 due its vast potential applications across different sectors like healthcare, agriculture etc.
 
@@ -57,16 +58,16 @@ The future of GAAIAA is expected to involve even greater autonomy and more sophi
 
 As Bill Gates highlighted healthcare industry has high demand for GAAIAA based on the following pain points faced in the industry (Gates, 2023):
 
-1. Cost-related Pain Points 
-a. Rising Healthcare Costs: Clinics often struggle with managing the increasing costs of medical supplies, equipment, and pharmaceuticals, which can impact their profitability (Bush, 2018).
-b. Reimbursement Challenges: Clinics may face difficulties in obtaining timely and adequate reimbursement from insurance providers, leading to financial strain (American Hospital Association, 2022).
-c. Operational Efficiency: Inefficient processes and workflows can contribute to higher costs, such as excessive administrative tasks, redundant paperwork, or inefficient use of resources (Cylus et al., 2016).
-d. Technology Investments: Adopting and maintaining advanced medical technologies and electronic health record systems can be costly for clinics, especially smaller ones with limited budgets (Haleem, 2021).
-2. Human Resources-related Pain Points
-a. Staffing Shortages: Clinics may struggle with recruiting and retaining qualified healthcare professionals, such as doctors, nurses, and specialized technicians, leading to increased workload and potential burnout for existing staff (Osman, 2022).
-b. Training and Development: Providing ongoing training and professional development opportunities for staff can be challenging due to time constraints and limited resources.
-c. Workforce Scheduling: Optimizing staff schedules to ensure adequate coverage while managing costs can be complex, especially in clinics that operate with extended hours or provide emergency services.
-d. Employee Engagement and Satisfaction: Maintaining a positive work environment, fostering teamwork, and addressing employee concerns are crucial for staff morale and retention.
+. Cost-related Pain Points 
+.. Rising Healthcare Costs: Clinics often struggle with managing the increasing costs of medical supplies, equipment, and pharmaceuticals, which can impact their profitability (Bush, 2018).
+.. Reimbursement Challenges: Clinics may face difficulties in obtaining timely and adequate reimbursement from insurance providers, leading to financial strain (American Hospital Association, 2022).
+.. Operational Efficiency: Inefficient processes and workflows can contribute to higher costs, such as excessive administrative tasks, redundant paperwork, or inefficient use of resources (Cylus et al., 2016).
+.. Technology Investments: Adopting and maintaining advanced medical technologies and electronic health record systems can be costly for clinics, especially smaller ones with limited budgets (Haleem, 2021).
+. Human Resources-related Pain Points
+.. Staffing Shortages: Clinics may struggle with recruiting and retaining qualified healthcare professionals, such as doctors, nurses, and specialized technicians, leading to increased workload and potential burnout for existing staff (Osman, 2022).
+.. Training and Development: Providing ongoing training and professional development opportunities for staff can be challenging due to time constraints and limited resources.
+.. Workforce Scheduling: Optimizing staff schedules to ensure adequate coverage while managing costs can be complex, especially in clinics that operate with extended hours or provide emergency services.
+.. Employee Engagement and Satisfaction: Maintaining a positive work environment, fostering teamwork, and addressing employee concerns are crucial for staff morale and retention.
 
 == Proposed Idea
 
@@ -86,7 +87,7 @@ Elderly citizens aged 65+ represent another large segment that could reap signif
 
 == Business Model
 
-image:Picture2.png[]
+image:images/Picture2.png[]
 
 === Value Proposition
 
@@ -94,21 +95,21 @@ image:Picture2.png[]
 
 This platform is a central platform to streamline communication between different departments and daily operation processes, while also allowing clinicians to access and share data in real-time. Additionally, it provides enhanced security protocols and automated processes that reduce errors and improve accuracy of patient information. The two major expected outcome from this SaaS can be found as below:
 
-1. Better collaboration between teams: It allows teams to securely exchange information quickly without having to go through manual processes or third-party systems. By eliminating these manual steps from the workflow process, clinicians are able to focus more on their patients rather than administrative tasks which will ultimately lead increased efficiency in patient care delivery overall.
-2. Greater accuracy: There is no margin for human error when inputting data due incorrect spelling mistakes or typos. The automation aspect also reduces time spent searching through records manually which saves valuable resources such labor costs associated with those activities thus freeing up staff members’ schedules so they may dedicate their efforts towards other areas within the organization like research development initiatives etc.
+. Better collaboration between teams: It allows teams to securely exchange information quickly without having to go through manual processes or third-party systems. By eliminating these manual steps from the workflow process, clinicians are able to focus more on their patients rather than administrative tasks which will ultimately lead increased efficiency in patient care delivery overall.
+. Greater accuracy: There is no margin for human error when inputting data due incorrect spelling mistakes or typos. The automation aspect also reduces time spent searching through records manually which saves valuable resources such labor costs associated with those activities thus freeing up staff members’ schedules so they may dedicate their efforts towards other areas within the organization like research development initiatives etc.
 
 
 ==== Telemedicine Autonomous Agent
 
 Telemedicine autonomous agent is revolutionizing the way patients access medical care. The following points are those features by which the proposed agent solution can offer:
 
-1. Convenience and Accessibility: Patients can access medical advice and consultations from the comfort of their own homes, eliminating the need for travel and reducing waiting times.
-2. 24/7 Availability: The virtual agent is available round the clock, allowing patients to seek medical advice and consultations at any time, including outside of regular clinic hours. This can be particularly beneficial for individuals with busy schedules or those in need of urgent medical assistance.
-3. Personalized and Tailored Care: The virtual agent provides personalized and tailored care. The agent can collect and analyze patient data, medical history, and symptoms to provide accurate and individualized recommendations and treatment plans.
-4. Continuity of Care: The virtual agent can ensure continuity of care by maintaining a comprehensive record of patient interactions and medical history. This can enable seamless transitions between virtual consultations and in-person visits, ensuring that patients receive consistent and coordinated care.
-5. Efficient Triage and Referral: The virtual agent can efficiently triage patients and identify those in need of immediate medical attention. It can refer patients to appropriate healthcare professionals or emergency services, when necessary, potentially reducing unnecessary emergency room visits.
-6. Evidence-Based Recommendations: The agent's recommendations are based on the latest medical research and guidelines. Highlight its ability to stay up to date with medical advancements and provide evidence-based advice to patients.
-7. User-Friendly Interface: The agent is easy for patients to navigate and interact with the system through video, voice, and text.
+. Convenience and Accessibility: Patients can access medical advice and consultations from the comfort of their own homes, eliminating the need for travel and reducing waiting times.
+. 24/7 Availability: The virtual agent is available round the clock, allowing patients to seek medical advice and consultations at any time, including outside of regular clinic hours. This can be particularly beneficial for individuals with busy schedules or those in need of urgent medical assistance.
+. Personalized and Tailored Care: The virtual agent provides personalized and tailored care. The agent can collect and analyze patient data, medical history, and symptoms to provide accurate and individualized recommendations and treatment plans.
+. Continuity of Care: The virtual agent can ensure continuity of care by maintaining a comprehensive record of patient interactions and medical history. This can enable seamless transitions between virtual consultations and in-person visits, ensuring that patients receive consistent and coordinated care.
+. Efficient Triage and Referral: The virtual agent can efficiently triage patients and identify those in need of immediate medical attention. It can refer patients to appropriate healthcare professionals or emergency services, when necessary, potentially reducing unnecessary emergency room visits.
+. Evidence-Based Recommendations: The agent's recommendations are based on the latest medical research and guidelines. Highlight its ability to stay up to date with medical advancements and provide evidence-based advice to patients.
+. User-Friendly Interface: The agent is easy for patients to navigate and interact with the system through video, voice, and text.
 
 === Customer Segments
 
@@ -194,19 +195,19 @@ The clinical autonomous agent platform provides an innovative solution that elim
 
 == References
 
-1. Addressing Commercial Health Plan Challenges to Ensure Fair Coverage for Patients and Providers. (2022, November 1). American Hospital Association. Accessed October 1, 2023. https://www.aha.org/guidesreports/2022-11-01-addressing-commercial-health-plan-challenges-ensure-fair-coverage-patients-and-providers
-2. Bush, M. (2018, January 1). Addressing the Root Cause: Rising Health Care Costs and Social Determinants of Health. North Carolina Medical Journal, Vol 79, Issue 1, pp. 26–29. https://doi.org/10.18043/ncm.79.1.26.
-3. Chiu, M et al. (2023, June 14). The economic potential of generative AI: The next productivity frontier. McKinsey and Company. Accessed October 1, 2023. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction
-4. Cylus, J. et al. (2016). Health system efficiency: How to make measurement matter for policy and management. Health Policy Series, No. 46. National Library of Medicine. Accessed October 1, 2023. https://www.ncbi.nlm.nih.gov/books/NBK436891/
-5. Elnaj, S. (2021, January 25). The 'New Normal' And The Future Of Technology After The Covid-19 Pandemic. Forbes. https://www.forbes.com/sites/forbestechcouncil/2021/01/25/the-new-normal-and-the-future-of-technology-after-the-covid-19-pandemic/?sh=2d6a4ce86bbb
-6. Global Autonomous AI and Autonomous Agents Market. (2023, June). Market Research Report, TC6694. Markets and Markets. Accessed October 1, 2023. https://www.marketsandmarkets.com/Market-Reports/autonomous-ai-and-autonomous-agents-market-208190735.html
-7. Gates, B. (2023, March 21). The Age of AI has begun. GatesNote. Accessed October 1, 2023. https://www.gatesnotes.com/The-Age-of-AI-Has-Begun
-8. Haleem, A. et al. (2021, July 24). Telemedicine for healthcare: Capabilities, features, barriers, and applications. Seniors International, Vol 2 (2021). https://doi.org/10.1016/j.sintl.2021.100117
-9. McKendrick, J. (2021, September 27). AI Adoption Skyrocketed Over the Last 18 Months. Harvard Business Review. Accessed September 30, 2023. https://hbr.org/2021/09/ai-adoption-skyrocketed-over-the-last-18-months
-10. National Health Expenditure Trends, 2022 — Snapshot. (2022, November 3). Canadian Institute of Health Information. https://www.cihi.ca/en/national-health-expenditure-trends-2022-snapshot
-11. Older Adults and Population Aging Statistics. (2022, July 1). Statistics Canada. Accessed October 2, 2023. https://www.statcan.gc.ca/en/subjects-start/older_adults_and_population_aging
-12. Osman, L. (2022, April 6). Health care workers say Canada needs a plan to fix ongoing hospital crisis. CP24. Accessed October 1, 2023. https://www.cp24.com/news/health-care-workers-say-canada-needs-a-plan-to-fix-ongoing-hospital-crisis-1.5850266
-13. Telemedicine Market Size, Share & Trends Analysis Report By Component (Products, Services), By End-user (Patients, Providers), By Application, By Modality, By Delivery Mode, By Facility, And By Segment Forecasts, 2023 - 2030. (2022). Grand View Research. Accessed October 2, 2023. https://www.grandviewresearch.com/industry-analysis/telemedicine-industry
-14. Tong, A. & Dastin, J. (2023, July 17). Insight: Race towards 'autonomous' AI agents grips Silicon Valley. Reuters. Accessed October 1, 2023. https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/
-15. WHO chief declares end to COVID-19 as a global health emergency. (2023, May 5). United Nations. Accessed September 30, 2023. https://news.un.org/en/story/2023/05/1136367
-16. Wiklund, I. (2023). Future challenges in securing sustainable workforce in healthcare. Sexual & Reproductive Healthcare, Vol. 27 (2023). Elsevier B.V. https://doi.org/10.1016/j.srhc.2023.100901
+. Addressing Commercial Health Plan Challenges to Ensure Fair Coverage for Patients and Providers. (2022, November 1). American Hospital Association. Accessed October 1, 2023. https://www.aha.org/guidesreports/2022-11-01-addressing-commercial-health-plan-challenges-ensure-fair-coverage-patients-and-providers
+. Bush, M. (2018, January 1). Addressing the Root Cause: Rising Health Care Costs and Social Determinants of Health. North Carolina Medical Journal, Vol 79, Issue 1, pp. 26–29. https://doi.org/10.18043/ncm.79.1.26.
+. Chiu, M et al. (2023, June 14). The economic potential of generative AI: The next productivity frontier. McKinsey and Company. Accessed October 1, 2023. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction
+. Cylus, J. et al. (2016). Health system efficiency: How to make measurement matter for policy and management. Health Policy Series, No. 46. National Library of Medicine. Accessed October 1, 2023. https://www.ncbi.nlm.nih.gov/books/NBK436891/
+. Elnaj, S. (2021, January 25). The 'New Normal' And The Future Of Technology After The Covid-19 Pandemic. Forbes. https://www.forbes.com/sites/forbestechcouncil/2021/01/25/the-new-normal-and-the-future-of-technology-after-the-covid-19-pandemic/?sh=2d6a4ce86bbb
+. Global Autonomous AI and Autonomous Agents Market. (2023, June). Market Research Report, TC6694. Markets and Markets. Accessed October 1, 2023. https://www.marketsandmarkets.com/Market-Reports/autonomous-ai-and-autonomous-agents-market-208190735.html
+. Gates, B. (2023, March 21). The Age of AI has begun. GatesNote. Accessed October 1, 2023. https://www.gatesnotes.com/The-Age-of-AI-Has-Begun
+. Haleem, A. et al. (2021, July 24). Telemedicine for healthcare: Capabilities, features, barriers, and applications. Seniors International, Vol 2 (2021). https://doi.org/10.1016/j.sintl.2021.100117
+. McKendrick, J. (2021, September 27). AI Adoption Skyrocketed Over the Last 18 Months. Harvard Business Review. Accessed September 30, 2023. https://hbr.org/2021/09/ai-adoption-skyrocketed-over-the-last-18-months
+. National Health Expenditure Trends, 2022 — Snapshot. (2022, November 3). Canadian Institute of Health Information. https://www.cihi.ca/en/national-health-expenditure-trends-2022-snapshot
+. Older Adults and Population Aging Statistics. (2022, July 1). Statistics Canada. Accessed October 2, 2023. https://www.statcan.gc.ca/en/subjects-start/older_adults_and_population_aging
+. Osman, L. (2022, April 6). Health care workers say Canada needs a plan to fix ongoing hospital crisis. CP24. Accessed October 1, 2023. https://www.cp24.com/news/health-care-workers-say-canada-needs-a-plan-to-fix-ongoing-hospital-crisis-1.5850266
+. Telemedicine Market Size, Share & Trends Analysis Report By Component (Products, Services), By End-user (Patients, Providers), By Application, By Modality, By Delivery Mode, By Facility, And By Segment Forecasts, 2023 - 2030. (2022). Grand View Research. Accessed October 2, 2023. https://www.grandviewresearch.com/industry-analysis/telemedicine-industry
+. Tong, A. & Dastin, J. (2023, July 17). Insight: Race towards 'autonomous' AI agents grips Silicon Valley. Reuters. Accessed October 1, 2023. https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/
+. WHO chief declares end to COVID-19 as a global health emergency. (2023, May 5). United Nations. Accessed September 30, 2023. https://news.un.org/en/story/2023/05/1136367
+. Wiklund, I. (2023). Future challenges in securing sustainable workforce in healthcare. Sexual & Reproductive Healthcare, Vol. 27 (2023). Elsevier B.V. https://doi.org/10.1016/j.srhc.2023.100901
